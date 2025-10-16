@@ -18,15 +18,10 @@
 
 <hr>
 
-![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wic3system/wic3&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=visitas&edge_flat=false)
+
+![Vistas:](https://visitor-badge.laobi.icu/badge?page_id=wic3system.wic3)
 
 
-<hr>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wic3system.wic3)
-
-
-<hr>
 
 *15 de octubre del 2025*
 

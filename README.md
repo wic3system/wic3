@@ -18,6 +18,16 @@
 
 <hr>
 
+![Visitas](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/wic3system/wic3&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&title=visitas&edge_flat=false)
+
+
+<hr>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=wic3system.wic3)
+
+
+<hr>
+
 *15 de octubre del 2025*
 
 ![Logo WIC3](https://raw.githubusercontent.com/wic3system/wic3/main/ico/wic3.svg)
